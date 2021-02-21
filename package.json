@@ -1,0 +1,19 @@
+{
+  "name": "blazepack-core",
+  "version": "0.0.1",
+  "description": "Self hosted sandpack instance for blazepack",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ameerthehacker/blazepack-core.git"
+  },
+  "keywords": [
+    "sandpack",
+    "blazepack"
+  ],
+  "author": "Ameer Jhan",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ameerthehacker/blazepack-core/issues"
+  },
+  "homepage": "https://github.com/ameerthehacker/blazepack-core#readme"
+}
