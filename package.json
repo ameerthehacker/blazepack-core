@@ -1,6 +1,6 @@
 {
   "name": "blazepack-core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Self hosted sandpack instance for blazepack",
   "repository": {
     "type": "git",
